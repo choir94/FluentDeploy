@@ -1,5 +1,5 @@
 ## Fluent-Contract-Deployment-On-Devnet
-- twitterfluent : [fluentxyz](https://x.com/fluentxyz)
+- twitter fluent : [fluentxyz](https://x.com/fluentxyz)
 - Join my Channel TELEGRAM : [Airdrop node](https://t.me/airdrop_node)
 ---
 - Open [Codespace](https://github.com/codespaces) or [Gitpod](https://gitpod.io/workspaces) (If it is taking long time to open then try to open in incognito tab)
